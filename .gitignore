@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Tests / caches
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local dataset
+data/raw/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
