@@ -1,6 +1,6 @@
 # AI Security Incident Triage & GenAI Analyst
 
-An end-to-end AI engineering project for security incident triage combining classical machine learning, a PyTorch neural network, hosted Generative AI, application-level guardrails, FastAPI model serving, automated testing, GitHub Actions CI, and Docker containerization.
+An end-to-end AI engineering project for security incident triage combining classical machine learning, a PyTorch neural network, hosted Generative AI, application-level guardrails, FastAPI model serving, automated testing, GitHub Actions CI and Docker containerization.
 
 The project uses the Microsoft Security Incident Prediction (GUIDE) dataset to classify security incidents into three triage categories:
 
